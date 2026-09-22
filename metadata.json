@@ -1,0 +1,6 @@
+{
+  "name": "WholesaleHub – B2B Wholesale Marketplace",
+  "description": "Full-stack B2B wholesale marketplace connecting suppliers and retailers with Spring Boot Java backend architecture, MySQL database, MOQ cart validation, order tracking, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
